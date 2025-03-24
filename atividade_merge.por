@@ -3,6 +3,11 @@ programa
 	
 	funcao inicio()
 	{
+		inteiro sub, x, y
+		leia(x)
+		leia(y) 
+		sub= x-y
+		escreva(sub)
 	
 	}
 }
