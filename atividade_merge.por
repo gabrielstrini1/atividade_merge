@@ -3,6 +3,7 @@ programa
 	//divisao
 	funcao inicio()
 	{
+  
 	inteiro num1, num2, divisao
 	escreva("Digite o primeiro número: ")
 	leia(num1)
@@ -10,6 +11,13 @@ programa
 	leia(num2)
 	divisao = num1 / num2
 	escreva("O resultado da divisão é: ", divisao)
+
+		inteiro sub, x, y
+		leia(x)
+		leia(y) 
+		sub= x-y
+		escreva(sub)
+	
 	}
 }
 /* $$$ Portugol Studio $$$ 
