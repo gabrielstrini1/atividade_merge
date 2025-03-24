@@ -32,10 +32,11 @@ programa
     escreva("O resultado da divisão é: ", divisao)
 
 		inteiro sub, x, y
+		escreva("insira 2 valores para a subtração")
 		leia(x)
 		leia(y) 
 		sub= x-y
-		escreva(sub)
+		escreva("resultado",sub)
 	
 
 	}
