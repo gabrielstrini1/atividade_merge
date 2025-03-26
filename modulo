@@ -1,0 +1,12 @@
+
+
+    //Módulo
+    inteiro mod1, mod2
+    real respmod
+    escreva("\n MÓDULO \n")
+    escreva("Digite o valor a ser dividido:\n")
+    leia(mod1)
+    escreva("\nDigite o divisor:\n")
+    leia(mod2)
+    respmod = mod1 % mod2
+    escreva("O módulo dos valores digitados é: ",respmod)
